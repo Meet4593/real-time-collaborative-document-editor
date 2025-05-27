@@ -29,3 +29,5 @@ Security is implemented through proper CORS configuration and environment variab
 This collaborative editing platform represents a modern approach to real-time document collaboration, combining the best practices of web development with powerful real-time communication technologies. It provides a solid foundation for building more complex collaborative features while maintaining performance and reliability.
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/66501979-7b44-40f7-9d18-bb440ff3fada)
+![Image](https://github.com/user-attachments/assets/fa3ba6ae-3341-442b-997b-4fd16c13a25a)
